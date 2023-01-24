@@ -16,7 +16,7 @@ I am also a student at Faculdade Dom Bosco.
 * ⚡  I love sports and my favorite is Fut
 
 <a href="https://www.github.com/lorenzo-jaeger" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/lorenzo-jaeger?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
