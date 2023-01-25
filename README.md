@@ -4,7 +4,7 @@ Hi 👋 My name is Lorenzo Jaeger
 Developer Front-End
 -----------------------------
 
-I'm a 20 years old developer and hacking since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
+I'm a 20 years old developer since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
 
 I am also a student at Faculdade Dom Bosco.
 
