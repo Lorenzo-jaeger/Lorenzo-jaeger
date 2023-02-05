@@ -10,7 +10,7 @@ I am also a student at Faculdade Dom Bosco.
 
 * 🌍  I’m from Rio Grande do Sul, Brazil
 * ✉️  You can contact me at [lorenzobraga1@hotmail.com](mailto:lorenzobraga1@hotmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://Hoepers.com)
+* 🚀  I'm currently working on [Hoepers](http://Hoepers.com)
 * 🧠  I'm learning Javascript, Unit Tests and C programming language and Java
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favourite one is soccer
