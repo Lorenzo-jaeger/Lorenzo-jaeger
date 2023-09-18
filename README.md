@@ -4,13 +4,13 @@ Hi 👋 My name is Lorenzo Jaeger
 Developer Front-End
 -----------------------------
 
-I’m 20 years old and I’ve been a developer since I was 18 years old. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
+I’m 21 years old and I’ve been a developer since I was 18 years old. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
 
 I am also a student at Faculdade Dom Bosco.
 
 * 🌍  I’m from Rio Grande do Sul, Brazil
 * ✉️  You can contact me at [lorenzobraga1@hotmail.com](mailto:lorenzobraga1@hotmail.com)
-* 🚀  I'm currently working on [Hoepers](http://Hoepers.com)
+* 🚀  I'm currently working on [Messem](https://www.messeminvestimentos.com.br/)
 * 🧠  I'm learning Javascript, Unit Tests and C programming language and Java
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favourite one is soccer
