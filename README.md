@@ -6,7 +6,7 @@ Developer Front-End
 
 I’m 22 years old and I’ve been a developer since I was 18 years old. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end development, making applications that impact the life of thousands of users.
 
-I am also a student at Faculdade Dom Bosco.
+I am also a student at Unisinos.
 
 * 🌍  I’m from Rio Grande do Sul, Brazil
 * ✉️  You can contact me at [lorenzobraga1@hotmail.com](mailto:lorenzobraga1@hotmail.com)
